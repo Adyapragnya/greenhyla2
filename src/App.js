@@ -5,13 +5,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img src="/NEW_LOGO.png" className="App-logo" alt="logo" />
+        <h2>
+          Welcom To Green Hyla
+        </h2>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.adyapragnya.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
